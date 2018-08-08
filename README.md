@@ -1,2 +1,2 @@
-# ionicTrainningApp
+# ionicTrainingApp
 Ionic training app 
